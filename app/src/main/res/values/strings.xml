@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Мое вдохновение</string>
+    <string name="title_view_all_quotes">Все цитаты</string>
+    <string name="title_view_liked_quotes">Понравившиеся цитаты</string>
+</resources>
